@@ -40,7 +40,7 @@ static const int64 MIN_RELAY_TX_FEE = .00001 * COIN;
 static const int64 MAX_MONEY = 60000000 * COIN;
 static const int64 MAX_MINT_PROOF_OF_STAKE = 1;	// 0.000001 % interest
 static const int64 MIN_TXOUT_AMOUNT = MIN_TX_FEE;
-static const unsigned int FAST_POS_PERIOD_END = 1456801792; //unix time when the faster PoS blocks end
+static const unsigned int FAST_POS_PERIOD_END = 1456790400; //unix time when the faster PoS blocks end - (GMT): Tue, 01 Mar 2016 00:00:00 GMT
 static const unsigned int FEE_ON_AMOUNT = 1; // this needs to be divided by 100 when used
 
 inline bool MoneyRange(int64 nValue) { return (nValue >= 0 && nValue <= MAX_MONEY); }
