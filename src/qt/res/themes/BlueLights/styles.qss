@@ -58,7 +58,7 @@ QMainWindow > QFrame > QDialog {
 }
 
 #coinLogo {
-	qproperty-pixmap: url($theme-dir/hypstk-watermark.png);
+	
 	qproperty-alignment: 'AlignBottom | AlignRight';
 }
 
