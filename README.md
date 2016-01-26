@@ -3,10 +3,10 @@
 
 Seren
 
-Copyright (c) 2016 Seren Developers
-Copyright (c) 2013-2015 HyperStake Developers
-Copyright (c) 2013 NovaCoin Developers
-Copyright (c) 2011-2012 Bitcoin Developers
+Copyright (c) 2016 Seren Developers  
+Copyright (c) 2013-2015 HyperStake Developers  
+Copyright (c) 2013 NovaCoin Developers  
+Copyright (c) 2011-2012 Bitcoin Developers  
 Distributed under the MIT/X11 software license, see the accompanying
 file license.txt or http://www.opensource.org/licenses/mit-license.php.
 This product includes software developed by the OpenSSL Project for use in
@@ -42,22 +42,16 @@ Setup
 -----
 sudo apt-get install build-essential libtool autotools-dev autoconf pkg-config libssl-dev libboost-all-dev libdb5.1-dev libdb5.1++-dev libminiupnpc-dev libqrencode-dev automake
 
-./autogen.sh
-
-./configure --with-incompatible-bdb --with-gui=no
-
-make
-
+`./autogen.sh
+`./configure --with-incompatible-bdb --with-gui=no
+`make
 
 to build with QT:
 
-sudo apt-get install libqt5gui5 libqt5core5a libqt5dbus5 qttools5-dev qttools5-dev-tools libprotobuf-dev protobuf-compiler
-
-./autogen.sh
-
-./configure --with-incompatible-bdb --with-gui=qt5
-
-make
+`sudo apt-get install libqt5gui5 libqt5core5a libqt5dbus5 qttools5-dev qttools5-dev-tools libprotobuf-dev protobuf-compiler
+`./autogen.sh
+`./configure --with-incompatible-bdb --with-gui=qt5
+`make
 
 The software automatically finds other nodes to connect to.  You can
 enable Universal Plug and Play (UPnP) with your router/firewall
@@ -71,4 +65,3 @@ serend backupwallet <destination_backup_file>
 Then shutdown serend by
 serend stop
 Start up the new serend.
-
