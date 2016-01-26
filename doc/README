@@ -3,8 +3,8 @@
 
 Seren
 
-Copyright (c) 2014 Seren Developers
-Copyright (c) 2013-2014 seren Developers
+Copyright (c) 2015 Seren Developers
+Copyright (c) 2014-2015 Hyperstake Developers
 Copyright (c) 2013 NovaCoin Developers
 Copyright (c) 2011-2012 Bitcoin Developers
 Distributed under the MIT/X11 software license, see the accompanying
@@ -16,9 +16,9 @@ cryptographic software written by Eric Young (eay@cryptsoft.com).
 
 Intro
 -----
-Seren is a free open source project derived from NovaCoin, with
+Seren is a free open source project derived from HyperStake, with
 the goal of providing a long-term energy-efficient Proof of Stake based crypto-currency.
-Built on the foundation of Bitcoin and NovaCoin, innovations such as proof-of-stake
+Built on the foundation of Bitcoin and HyperStake, innovations such as proof-of-stake
 help further advance the field of crypto-currency.
 
 Setup
