@@ -3,10 +3,10 @@
 
 Seren
 
-Copyright (c) 2016 Seren Developers
-Copyright (c) 2013-2015 HyperStake Developers
-Copyright (c) 2013 NovaCoin Developers
-Copyright (c) 2011-2012 Bitcoin Developers
+Copyright (c) 2016 Seren Developers  
+Copyright (c) 2013-2015 HyperStake Developers  
+Copyright (c) 2013 NovaCoin Developers  
+Copyright (c) 2011-2012 Bitcoin Developers  
 Distributed under the MIT/X11 software license, see the accompanying
 file license.txt or http://www.opensource.org/licenses/mit-license.php.
 This product includes software developed by the OpenSSL Project for use in
